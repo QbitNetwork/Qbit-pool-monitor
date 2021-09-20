@@ -104,5 +104,5 @@ CREATE TABLE `pool_polling` (
 
 ## License
 
-Copyright © 2019 [The TurtleCoin Developers] { QbitNetwork.}<br />https://github.com/QbitNetwork/Qbit-pool-monitor
+Copyright © 2019 [The TurtleCoin Developers] [ QbitNetwork.]<br />https://github.com/QbitNetwork/Qbit-pool-monitor
 This project is [AGPL-3.0](https://github.com/QbitNetwork/cryptodira/blob/master/LICENSE) licensed.
